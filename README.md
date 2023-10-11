@@ -14,7 +14,7 @@ This is a simple web page displaying a QR code component. It allows users to sca
 
 ## Demo
 
-You can view the live demo [here](#).
+You can view the live demo [here](https://a7medc7.github.io/qr-code-component/).
 
 ## Features
 
